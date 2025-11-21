@@ -12,7 +12,7 @@ The project is divided into clear phases to ensure structured development and co
 - [x] Create GitHub repository and folder structure  
 - [x] Draft README.md and requirements.txt  
 - [x] Install core libraries: `pandas`, `numpy` 
-- [ ] Set up version control and initial commits  
+- [x] Set up version control and initial commits  
   
 
 ---
@@ -20,10 +20,10 @@ The project is divided into clear phases to ensure structured development and co
 ## 2: Core Functionality Development
 **Goals:** Build the basic system for tracking and storing user habits.  
 **Tasks:**
-- [ ] Develop user input system  
-- [ ] Create habit logging for name, time, mood, and energy  
-- [ ] Implement data storage using  
-- [ ] Add basic validation and data management functions  
+- [x] Develop user input system  
+- [x] Create habit logging for name, time, mood, and energy  
+- [x] Implement data storage using  
+- [x] Add basic validation and data management functions  
   
 
 ---
