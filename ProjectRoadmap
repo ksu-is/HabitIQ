@@ -1,0 +1,91 @@
+# HabitIQ Project Roadmap
+
+This roadmap outlines the development journey of **HabitIQ**, an AI-powered habit insight and prediction tool built with Python.  
+The project is divided into clear phases to ensure structured development and continuous improvement.
+
+---
+
+## 1: Planning & Setup
+**Goals:** Establish the foundation and environment for development.  
+**Tasks:**
+- [x] Define project scope and objectives  
+- [x] Create GitHub repository and folder structure  
+- [x] Draft README.md and requirements.txt  
+- [x] Install core libraries: `pandas`, `numpy` 
+- [ ] Set up version control and initial commits  
+  
+
+---
+
+## 2: Core Functionality Development
+**Goals:** Build the basic system for tracking and storing user habits.  
+**Tasks:**
+- [ ] Develop user input system  
+- [ ] Create habit logging for name, time, mood, and energy  
+- [ ] Implement data storage using  
+- [ ] Add basic validation and data management functions  
+  
+
+---
+
+## 3: Data Analysis & Pattern Recognition
+**Goals:** Analyze user data and identify meaningful trends.  
+**Tasks:**
+- [ ] Process logged data with Pandas and NumPy  
+- [ ] Detect correlations between time, mood, and success rate  
+- [ ] Generate summary reports and trend insights  
+
+
+---
+
+## 4: Predictive Modeling & Insights
+**Goals:** Enable AI-powered habit prediction and personalized insights.  
+**Tasks:**
+- [ ] Train machine learning models (Decision Tree / Random Forest)  
+- [ ] Predict likelihood of habit completion  
+- [ ] Provide personalized habit recommendations  
+
+
+---
+
+## 5: Data Visualization
+**Goals:** Visualize data for clear habit tracking and progress review.  
+**Tasks:**
+- [ ] Design visual charts and habit streak displays  
+- [ ] Use Matplotlib or Plotly for trend visualization  
+- [ ] Integrate visuals into the GUI/dashboard  
+ 
+
+---
+
+## 6: Testing & Refinement
+**Goals:** Improve performance, usability, and reliability.  
+**Tasks:**
+- [ ] Debug core modules and fix logic issues  
+- [ ] Conduct user testing and collect feedback  
+- [ ] Optimize model accuracy and interface responsiveness  
+ 
+
+---
+
+## 7: Documentation & Final Release
+**Goals:** Prepare the final project for submission or release.  
+**Tasks:**
+- [ ] Write detailed documentation and setup guide  
+- [ ] Update README.md, CHANGELOG, and LICENSE  
+- [ ] Add screenshots or demo GIFs  
+- [ ] Package and upload final release version  
+ 
+
+---
+
+## Future Enhancements
+- Google Calendar integration for smart scheduling  
+- Gamification features (points, badges, streak rewards)  
+- Mobile version using Kivy  
+- Cloud data sync for multi-device use  
+
+---
+
+> **Status:** 🟢 *In Development*  
+> **Next Milestone:** Complete Core Functionality Development
