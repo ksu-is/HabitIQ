@@ -1,0 +1,5 @@
+def load_data():
+    df = pd.read_csv("habit_data.csv", header=None)
+    df.columns = ["habit", "mood", "energy", "timestamp"]
+    df["timestamp"] = pd.to_datetime(df["timestamp"])
+    return df
